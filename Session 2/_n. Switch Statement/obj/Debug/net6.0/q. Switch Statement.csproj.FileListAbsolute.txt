@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\bin\Debug\net6.0\q. Switch Statement.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\bin\Debug\net6.0\q. Switch Statement.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\bin\Debug\net6.0\q. Switch Statement.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\bin\Debug\net6.0\q. Switch Statement.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\bin\Debug\net6.0\q. Switch Statement.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\refint\q. Switch Statement.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\q. Switch Statement.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\q. Switch Statement\obj\Debug\net6.0\ref\q. Switch Statement.dll

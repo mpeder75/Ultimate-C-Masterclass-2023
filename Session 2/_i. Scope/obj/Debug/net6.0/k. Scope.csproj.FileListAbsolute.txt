@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\bin\Debug\net6.0\k. Scope.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\bin\Debug\net6.0\k. Scope.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\bin\Debug\net6.0\k. Scope.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\bin\Debug\net6.0\k. Scope.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\bin\Debug\net6.0\k. Scope.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\refint\k. Scope.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\k. Scope.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Scope\obj\Debug\net6.0\ref\k. Scope.dll

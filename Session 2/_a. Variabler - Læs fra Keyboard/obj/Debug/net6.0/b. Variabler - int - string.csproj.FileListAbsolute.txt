@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\bin\Debug\net6.0\b. Variabler - int - string.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\bin\Debug\net6.0\b. Variabler - int - string.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\bin\Debug\net6.0\b. Variabler - int - string.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\bin\Debug\net6.0\b. Variabler - int - string.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\bin\Debug\net6.0\b. Variabler - int - string.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\refint\b. Variabler - int - string.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\b. Variabler - int - string.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\b. Variabler - int - string\obj\Debug\net6.0\ref\b. Variabler - int - string.dll

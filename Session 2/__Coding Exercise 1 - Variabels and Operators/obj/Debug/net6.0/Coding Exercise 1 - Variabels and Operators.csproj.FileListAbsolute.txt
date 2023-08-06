@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\refint\Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\Coding Exercise 1 - Variabels and Operators.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\ref\Coding Exercise 1 - Variabels and Operators.dll

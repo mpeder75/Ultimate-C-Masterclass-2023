@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "m. Method - non void/1.0.0": {
+        "runtime": {
+          "m. Method - non void.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m. Method - non void/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

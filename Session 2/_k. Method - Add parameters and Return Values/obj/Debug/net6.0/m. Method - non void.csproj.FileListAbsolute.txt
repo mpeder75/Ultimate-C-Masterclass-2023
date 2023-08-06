@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\bin\Debug\net6.0\m. Method - non void.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\bin\Debug\net6.0\m. Method - non void.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\bin\Debug\net6.0\m. Method - non void.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\bin\Debug\net6.0\m. Method - non void.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\bin\Debug\net6.0\m. Method - non void.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\refint\m. Method - non void.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\m. Method - non void.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. Method - non void\obj\Debug\net6.0\ref\m. Method - non void.dll

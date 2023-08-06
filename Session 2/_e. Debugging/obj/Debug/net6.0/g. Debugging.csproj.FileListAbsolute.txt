@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\bin\Debug\net6.0\g. Debugging.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\bin\Debug\net6.0\g. Debugging.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\bin\Debug\net6.0\g. Debugging.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\bin\Debug\net6.0\g. Debugging.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\bin\Debug\net6.0\g. Debugging.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\refint\g. Debugging.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\g. Debugging.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Debugging\obj\Debug\net6.0\ref\g. Debugging.dll

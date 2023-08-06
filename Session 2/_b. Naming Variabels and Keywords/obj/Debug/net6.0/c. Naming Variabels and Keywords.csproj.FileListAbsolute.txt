@@ -1,0 +1,30 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\refint\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\ref\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\bin\Debug\net6.0\c. Naming Variabels and Keywords.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\refint\c. Naming Variabels and Keywords.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\c. Naming Variabels and Keywords.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Naming Variabels and Keywords\obj\Debug\net6.0\ref\c. Naming Variabels and Keywords.dll

@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\bin\Debug\net6.0\h. Variabler - boolean - operators.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\bin\Debug\net6.0\h. Variabler - boolean - operators.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\bin\Debug\net6.0\h. Variabler - boolean - operators.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\bin\Debug\net6.0\h. Variabler - boolean - operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\bin\Debug\net6.0\h. Variabler - boolean - operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\refint\h. Variabler - boolean - operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\h. Variabler - boolean - operators.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. Variabler - boolean - operators\obj\Debug\net6.0\ref\h. Variabler - boolean - operators.dll

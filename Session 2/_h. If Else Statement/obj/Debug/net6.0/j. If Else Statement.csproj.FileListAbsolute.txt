@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\bin\Debug\net6.0\j. If Else Statement.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\bin\Debug\net6.0\j. If Else Statement.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\bin\Debug\net6.0\j. If Else Statement.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\bin\Debug\net6.0\j. If Else Statement.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\bin\Debug\net6.0\j. If Else Statement.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\refint\j. If Else Statement.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\j. If Else Statement.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. If Else Statement\obj\Debug\net6.0\ref\j. If Else Statement.dll

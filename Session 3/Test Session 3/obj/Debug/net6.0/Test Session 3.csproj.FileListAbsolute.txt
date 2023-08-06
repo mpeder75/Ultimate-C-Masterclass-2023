@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\bin\Debug\net6.0\Test Session 3.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\bin\Debug\net6.0\Test Session 3.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\bin\Debug\net6.0\Test Session 3.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\bin\Debug\net6.0\Test Session 3.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\bin\Debug\net6.0\Test Session 3.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\refint\Test Session 3.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\Test Session 3.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 3\Test Session 3\obj\Debug\net6.0\ref\Test Session 3.dll

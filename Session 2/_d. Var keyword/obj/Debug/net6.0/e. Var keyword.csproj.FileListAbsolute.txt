@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\bin\Debug\net6.0\e. Var keyword.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\bin\Debug\net6.0\e. Var keyword.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\bin\Debug\net6.0\e. Var keyword.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\bin\Debug\net6.0\e. Var keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\bin\Debug\net6.0\e. Var keyword.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\refint\e. Var keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\e. Var keyword.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Var keyword\obj\Debug\net6.0\ref\e. Var keyword.dll

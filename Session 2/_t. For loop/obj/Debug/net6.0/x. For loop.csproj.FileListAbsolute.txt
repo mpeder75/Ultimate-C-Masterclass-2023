@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\bin\Debug\net6.0\x. For loop.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\bin\Debug\net6.0\x. For loop.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\bin\Debug\net6.0\x. For loop.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\bin\Debug\net6.0\x. For loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\bin\Debug\net6.0\x. For loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\refint\x. For loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\x. For loop.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\x. For loop\obj\Debug\net6.0\ref\x. For loop.dll

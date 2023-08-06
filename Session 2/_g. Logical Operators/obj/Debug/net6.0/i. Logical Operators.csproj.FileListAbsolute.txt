@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\bin\Debug\net6.0\i. Logical Operators.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\bin\Debug\net6.0\i. Logical Operators.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\bin\Debug\net6.0\i. Logical Operators.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\bin\Debug\net6.0\i. Logical Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\bin\Debug\net6.0\i. Logical Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\refint\i. Logical Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\i. Logical Operators.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Logical Operators\obj\Debug\net6.0\ref\i. Logical Operators.dll

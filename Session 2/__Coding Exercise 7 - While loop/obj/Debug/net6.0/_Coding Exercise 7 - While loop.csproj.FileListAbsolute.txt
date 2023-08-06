@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\bin\Debug\net6.0\_Coding Exercise 7 - While loop.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\bin\Debug\net6.0\_Coding Exercise 7 - While loop.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\bin\Debug\net6.0\_Coding Exercise 7 - While loop.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\bin\Debug\net6.0\_Coding Exercise 7 - While loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\bin\Debug\net6.0\_Coding Exercise 7 - While loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\refint\_Coding Exercise 7 - While loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\_Coding Exercise 7 - While loop.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 7 - While loop\obj\Debug\net6.0\ref\_Coding Exercise 7 - While loop.dll

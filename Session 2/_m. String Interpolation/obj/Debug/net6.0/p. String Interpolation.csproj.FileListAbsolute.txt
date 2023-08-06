@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\bin\Debug\net6.0\p. String Interpolation.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\bin\Debug\net6.0\p. String Interpolation.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\bin\Debug\net6.0\p. String Interpolation.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\bin\Debug\net6.0\p. String Interpolation.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\bin\Debug\net6.0\p. String Interpolation.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\refint\p. String Interpolation.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\p. String Interpolation.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\p. String Interpolation\obj\Debug\net6.0\ref\p. String Interpolation.dll

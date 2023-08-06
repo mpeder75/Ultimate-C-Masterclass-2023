@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\bin\Debug\net6.0\y. Break Keyword.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\bin\Debug\net6.0\y. Break Keyword.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\bin\Debug\net6.0\y. Break Keyword.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\bin\Debug\net6.0\y. Break Keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\bin\Debug\net6.0\y. Break Keyword.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\refint\y. Break Keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\y. Break Keyword.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\y. Break Keyword\obj\Debug\net6.0\ref\y. Break Keyword.dll

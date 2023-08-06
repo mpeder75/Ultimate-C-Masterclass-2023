@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\bin\Debug\net6.0\z. Continue Keyword.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\bin\Debug\net6.0\z. Continue Keyword.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\bin\Debug\net6.0\z. Continue Keyword.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\bin\Debug\net6.0\z. Continue Keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\bin\Debug\net6.0\z. Continue Keyword.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\refint\z. Continue Keyword.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\z. Continue Keyword.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\z. Continue Keyword\obj\Debug\net6.0\ref\z. Continue Keyword.dll

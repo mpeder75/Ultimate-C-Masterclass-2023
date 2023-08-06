@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\bin\Debug\net6.0\b. Variabler.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\bin\Debug\net6.0\b. Variabler.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\bin\Debug\net6.0\b. Variabler.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\bin\Debug\net6.0\b. Variabler.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\bin\Debug\net6.0\b. Variabler.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\refint\b. Variabler.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\b. Variabler.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\b. Variabler\obj\Debug\net6.0\ref\b. Variabler.dll

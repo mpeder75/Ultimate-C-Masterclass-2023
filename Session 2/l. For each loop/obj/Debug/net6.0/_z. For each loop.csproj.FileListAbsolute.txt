@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\bin\Debug\net6.0\_z. For each loop.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\bin\Debug\net6.0\_z. For each loop.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\bin\Debug\net6.0\_z. For each loop.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\bin\Debug\net6.0\_z. For each loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\bin\Debug\net6.0\_z. For each loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\refint\_z. For each loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\_z. For each loop.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_z. For each loop\obj\Debug\net6.0\ref\_z. For each loop.dll

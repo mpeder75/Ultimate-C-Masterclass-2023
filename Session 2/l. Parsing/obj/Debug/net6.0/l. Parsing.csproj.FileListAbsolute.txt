@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\bin\Debug\net6.0\l. Parsing.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\bin\Debug\net6.0\l. Parsing.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\bin\Debug\net6.0\l. Parsing.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\bin\Debug\net6.0\l. Parsing.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\bin\Debug\net6.0\l. Parsing.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\refint\l. Parsing.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\l. Parsing.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\l. Parsing\obj\Debug\net6.0\ref\l. Parsing.dll

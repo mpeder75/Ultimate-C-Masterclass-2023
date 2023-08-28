@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\bin\Debug\net6.0\a. Variabler - Læs fra Keyboard.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\bin\Debug\net6.0\a. Variabler - Læs fra Keyboard.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\bin\Debug\net6.0\a. Variabler - Læs fra Keyboard.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\bin\Debug\net6.0\a. Variabler - Læs fra Keyboard.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\bin\Debug\net6.0\a. Variabler - Læs fra Keyboard.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\refint\a. Variabler - Læs fra Keyboard.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\a. Variabler - Læs fra Keyboard.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Variabler - Læs fra Keyboard\obj\Debug\net6.0\ref\a. Variabler - Læs fra Keyboard.dll

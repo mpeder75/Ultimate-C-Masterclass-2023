@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\bin\Debug\net6.0\j. Arrays.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\bin\Debug\net6.0\j. Arrays.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\bin\Debug\net6.0\j. Arrays.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\bin\Debug\net6.0\j. Arrays.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\bin\Debug\net6.0\j. Arrays.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\refint\j. Arrays.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\j. Arrays.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Arrays\obj\Debug\net6.0\ref\j. Arrays.dll

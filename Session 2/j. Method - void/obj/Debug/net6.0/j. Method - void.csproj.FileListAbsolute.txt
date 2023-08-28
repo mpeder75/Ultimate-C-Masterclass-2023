@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\bin\Debug\net6.0\j. Method - void.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\bin\Debug\net6.0\j. Method - void.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\bin\Debug\net6.0\j. Method - void.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\bin\Debug\net6.0\j. Method - void.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\bin\Debug\net6.0\j. Method - void.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\refint\j. Method - void.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\j. Method - void.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\j. Method - void\obj\Debug\net6.0\ref\j. Method - void.dll

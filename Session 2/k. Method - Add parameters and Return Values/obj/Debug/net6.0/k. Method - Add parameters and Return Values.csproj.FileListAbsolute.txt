@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\bin\Debug\net6.0\k. Method - Add parameters and Return Values.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\bin\Debug\net6.0\k. Method - Add parameters and Return Values.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\bin\Debug\net6.0\k. Method - Add parameters and Return Values.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\bin\Debug\net6.0\k. Method - Add parameters and Return Values.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\bin\Debug\net6.0\k. Method - Add parameters and Return Values.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\refint\k. Method - Add parameters and Return Values.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\k. Method - Add parameters and Return Values.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\k. Method - Add parameters and Return Values\obj\Debug\net6.0\ref\k. Method - Add parameters and Return Values.dll

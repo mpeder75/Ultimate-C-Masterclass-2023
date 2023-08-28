@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\bin\Debug\net6.0\c. Loop Operators.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\bin\Debug\net6.0\c. Loop Operators.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\bin\Debug\net6.0\c. Loop Operators.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\bin\Debug\net6.0\c. Loop Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\bin\Debug\net6.0\c. Loop Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\refint\c. Loop Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\c. Loop Operators.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Loop Operators\obj\Debug\net6.0\ref\c. Loop Operators.dll

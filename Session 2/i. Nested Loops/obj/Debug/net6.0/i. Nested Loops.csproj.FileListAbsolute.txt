@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\bin\Debug\net6.0\i. Nested Loops.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\bin\Debug\net6.0\i. Nested Loops.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\bin\Debug\net6.0\i. Nested Loops.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\bin\Debug\net6.0\i. Nested Loops.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\bin\Debug\net6.0\i. Nested Loops.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\refint\i. Nested Loops.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\i. Nested Loops.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\i. Nested Loops\obj\Debug\net6.0\ref\i. Nested Loops.dll

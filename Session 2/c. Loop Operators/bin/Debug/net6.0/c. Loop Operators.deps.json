@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "c. Loop Operators/1.0.0": {
+        "runtime": {
+          "c. Loop Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c. Loop Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

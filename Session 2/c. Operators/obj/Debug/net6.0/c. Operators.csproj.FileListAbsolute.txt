@@ -13,3 +13,18 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c.
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\Session 2\c. Operators\obj\Debug\net6.0\ref\c. Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\bin\Debug\net6.0\c. Operators.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\bin\Debug\net6.0\c. Operators.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\bin\Debug\net6.0\c. Operators.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\bin\Debug\net6.0\c. Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\bin\Debug\net6.0\c. Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\refint\c. Operators.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\c. Operators.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\c. Operators\obj\Debug\net6.0\ref\c. Operators.dll

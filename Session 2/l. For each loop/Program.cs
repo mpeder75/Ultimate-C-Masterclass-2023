@@ -3,9 +3,8 @@
 var words = new[] {"one", "two", "three", "four" };
 var numbers = new[] {"one", "two", "three", "four" };
 
-// For loop looper gennem array
-for (var i = 0; i < words.Length; i++) 
-{
+// For loop der looper gennem array
+for (var i = 0; i < words.Length; i++) {
     Console.WriteLine(words[i]);
 }
 

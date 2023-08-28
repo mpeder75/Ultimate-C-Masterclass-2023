@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\bin\Debug\net6.0\e. Do-while loop.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\bin\Debug\net6.0\e. Do-while loop.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\bin\Debug\net6.0\e. Do-while loop.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\bin\Debug\net6.0\e. Do-while loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\bin\Debug\net6.0\e. Do-while loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\refint\e. Do-while loop.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\e. Do-while loop.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\e. Do-while loop\obj\Debug\net6.0\ref\e. Do-while loop.dll

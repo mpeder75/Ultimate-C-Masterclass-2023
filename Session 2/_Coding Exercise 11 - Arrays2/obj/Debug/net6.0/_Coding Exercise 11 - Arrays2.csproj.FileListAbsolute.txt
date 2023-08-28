@@ -1,0 +1,15 @@
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\bin\Debug\net6.0\_Coding Exercise 11 - Arrays2.exe
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\bin\Debug\net6.0\_Coding Exercise 11 - Arrays2.deps.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\bin\Debug\net6.0\_Coding Exercise 11 - Arrays2.runtimeconfig.json
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\bin\Debug\net6.0\_Coding Exercise 11 - Arrays2.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\bin\Debug\net6.0\_Coding Exercise 11 - Arrays2.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.csproj.AssemblyReference.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.AssemblyInfoInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.AssemblyInfo.cs
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\refint\_Coding Exercise 11 - Arrays2.dll
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.pdb
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\_Coding Exercise 11 - Arrays2.genruntimeconfig.cache
+C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 11 - Arrays2\obj\Debug\net6.0\ref\_Coding Exercise 11 - Arrays2.dll

@@ -7,6 +7,7 @@ this variable is equal to "hello".
 
     char[] letters = new char[] {'h', 'e', 'l', 'l', 'o'};
     var result = "";
+
     for(int i = 0; i < letters.Length; ++i)
     {
         result += letters[i];

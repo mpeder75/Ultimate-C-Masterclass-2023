@@ -24,7 +24,6 @@ number = 7;
 int a = 1, B = 6;
 string name, lastName;
 
-Console.ReadKey();
 
 
 /* ------------ Aflæse fra Keyboard ------------- */

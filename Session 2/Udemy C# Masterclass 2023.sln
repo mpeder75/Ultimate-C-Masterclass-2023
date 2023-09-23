@@ -1,86 +1,95 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a. Variabler - Læs fra Keyboard", "a. Variabler - Læs fra Keyboard\a. Variabler - Læs fra Keyboard.csproj", "{539D772D-8373-43CF-9898-B5E9D78AEEEB}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a. Variabler - Læs fra Keyboard", "a. Variabler - Læs fra Keyboard\a. Variabler - Læs fra Keyboard.csproj", "{539D772D-8373-43CF-9898-B5E9D78AEEEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b. Naming Variabels and Keywords", "b. Naming Variabels and Keywords\b. Naming Variabels and Keywords.csproj", "{72C81583-0101-44D6-94A7-21B8049C6071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "b. Naming Variabels and Keywords", "b. Naming Variabels and Keywords\b. Naming Variabels and Keywords.csproj", "{72C81583-0101-44D6-94A7-21B8049C6071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c. Operators", "c. Operators\c. Operators.csproj", "{1686FE59-FDBA-4DFC-A24D-CDE5FA361817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c. Operators", "c. Operators\c. Operators.csproj", "{1686FE59-FDBA-4DFC-A24D-CDE5FA361817}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 2", "Section 2", "{740C2955-82BE-4890-A47E-B91CE7310AE5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 3", "Section 3", "{C630D730-3D74-4988-A248-D8FC668F9E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d. Var keyword", "d. Var keyword\d. Var keyword.csproj", "{FCE34E6A-A2DB-40BB-AF7B-C166CACEC0E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d. Var keyword", "d. Var keyword\d. Var keyword.csproj", "{FCE34E6A-A2DB-40BB-AF7B-C166CACEC0E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e. Debugging", "e. Debugging\e. Debugging.csproj", "{0338A0D2-0C47-4C0B-A92F-2E3AAC8B0334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e. Debugging", "e. Debugging\e. Debugging.csproj", "{0338A0D2-0C47-4C0B-A92F-2E3AAC8B0334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 1 - Variabels and Operators", "_Coding Exercise 1 - Variabels and Operators\_Coding Exercise 1 - Variabels and Operators.csproj", "{94C1E3F2-DAE5-4859-BEA2-EA70C0386654}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 1 - Variabels and Operators", "_Coding Exercise 1 - Variabels and Operators\_Coding Exercise 1 - Variabels and Operators.csproj", "{94C1E3F2-DAE5-4859-BEA2-EA70C0386654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f. Variabler - boolean - operators", "f. Variabler - boolean - operators\f. Variabler - boolean - operators.csproj", "{A6D87063-1E12-4F37-AAD6-4E3BD0F76779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "f. Variabler - boolean - operators", "f. Variabler - boolean - operators\f. Variabler - boolean - operators.csproj", "{A6D87063-1E12-4F37-AAD6-4E3BD0F76779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g. Logical Operators", "g. Logical Operators\g. Logical Operators.csproj", "{5878F9F5-52CE-4565-B493-4611B00000F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "g. Logical Operators", "g. Logical Operators\g. Logical Operators.csproj", "{5878F9F5-52CE-4565-B493-4611B00000F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 2 - Boolean Operators", "_Coding Exercise 2 - Boolean Operators\_Coding Exercise 2 - Boolean Operators.csproj", "{BDFB53D4-C367-414E-B568-0A54A97F890D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 2 - Boolean Operators", "_Coding Exercise 2 - Boolean Operators\_Coding Exercise 2 - Boolean Operators.csproj", "{BDFB53D4-C367-414E-B568-0A54A97F890D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h. If Else Statement", "h. If Else Statement\h. If Else Statement.csproj", "{6365043B-F0D0-4B4C-9943-3CBC4DCD6C46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "h. If Else Statement", "h. If Else Statement\h. If Else Statement.csproj", "{6365043B-F0D0-4B4C-9943-3CBC4DCD6C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 3 - If Else Statement", "_Coding Exercise 3 - If Else Statement\_Coding Exercise 3 - If Else Statement.csproj", "{05AD4DA4-53D3-48D5-9660-3D935D46B5AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 3 - If Else Statement", "_Coding Exercise 3 - If Else Statement\_Coding Exercise 3 - If Else Statement.csproj", "{05AD4DA4-53D3-48D5-9660-3D935D46B5AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i. Scope", "i. Scope\i. Scope.csproj", "{F7376003-00C2-4557-933C-2667F96C1B51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i. Scope", "i. Scope\i. Scope.csproj", "{F7376003-00C2-4557-933C-2667F96C1B51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "j. Method - void", "j. Method - void\j. Method - void.csproj", "{76498CD3-DA5F-4CA0-83D1-49187A55CAC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "j. Method - void", "j. Method - void\j. Method - void.csproj", "{76498CD3-DA5F-4CA0-83D1-49187A55CAC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k. Method - Add parameters and Return Values", "k. Method - Add parameters and Return Values\k. Method - Add parameters and Return Values.csproj", "{45F55730-D803-425D-BDD9-47875FD6183F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "k. Method - Add parameters and Return Values", "k. Method - Add parameters and Return Values\k. Method - Add parameters and Return Values.csproj", "{45F55730-D803-425D-BDD9-47875FD6183F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 4 - Methods", "_Coding Exercise 4 - Methods\_Coding Exercise 4 - Methods.csproj", "{D96E2163-D8F9-4D91-A1A6-B32C6F6308A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 4 - Methods", "_Coding Exercise 4 - Methods\_Coding Exercise 4 - Methods.csproj", "{D96E2163-D8F9-4D91-A1A6-B32C6F6308A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l. Parsing", "l. Parsing\l. Parsing.csproj", "{1EFE99F1-77F4-4401-AE71-9AF9DD81AE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "l. Parsing", "l. Parsing\l. Parsing.csproj", "{1EFE99F1-77F4-4401-AE71-9AF9DD81AE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Assigment - Calculator", "_Assigment - Calculator\_Assigment - Calculator.csproj", "{07873E2F-D339-4236-98E0-64251D27E445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Assigment - Calculator", "_Assigment - Calculator\_Assigment - Calculator.csproj", "{07873E2F-D339-4236-98E0-64251D27E445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m. String Interpolation", "m. String Interpolation\m. String Interpolation.csproj", "{5C442549-4406-442A-A2CD-701BC40BDAA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "m. String Interpolation", "m. String Interpolation\m. String Interpolation.csproj", "{5C442549-4406-442A-A2CD-701BC40BDAA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 5 - String Interpolation", "_Coding Exercise 5 - String Interpolation\_Coding Exercise 5 - String Interpolation.csproj", "{596ABB4A-E78F-46F3-82D2-5D39A2F57280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 5 - String Interpolation", "_Coding Exercise 5 - String Interpolation\_Coding Exercise 5 - String Interpolation.csproj", "{596ABB4A-E78F-46F3-82D2-5D39A2F57280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a. Switch Statement", "a. Switch Statement\a. Switch Statement.csproj", "{D20FEF96-A987-4DD3-B737-6A9B92BC181B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a. Switch Statement", "a. Switch Statement\a. Switch Statement.csproj", "{D20FEF96-A987-4DD3-B737-6A9B92BC181B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 6 - Switch Statement", "_Coding Exercise 6 - Switch Statement\_Coding Exercise 6 - Switch Statement.csproj", "{59E4FF92-1E58-41AF-B65B-00659D9AC16B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 6 - Switch Statement", "_Coding Exercise 6 - Switch Statement\_Coding Exercise 6 - Switch Statement.csproj", "{59E4FF92-1E58-41AF-B65B-00659D9AC16B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o. Char", "o. Char\o. Char.csproj", "{D2222BE5-C86A-443B-B3DA-769FF5D56203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "o. Char", "o. Char\o. Char.csproj", "{D2222BE5-C86A-443B-B3DA-769FF5D56203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b. While loop pt. 1", "b. While loop pt. 1\b. While loop pt. 1.csproj", "{FE04ADD4-A394-4A40-82EB-2F8E20EFCE0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "b. While loop pt. 1", "b. While loop pt. 1\b. While loop pt. 1.csproj", "{FE04ADD4-A394-4A40-82EB-2F8E20EFCE0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c. Loop Operators", "c. Loop Operators\c. Loop Operators.csproj", "{CF3DF1F0-A2B8-4132-82D3-15FDC13BB8E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c. Loop Operators", "c. Loop Operators\c. Loop Operators.csproj", "{CF3DF1F0-A2B8-4132-82D3-15FDC13BB8E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d. While loop pt. 2", "d. While loop pt. 2\d. While loop pt. 2.csproj", "{A6BDADB8-4353-4794-A983-E016B995813E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "d. While loop pt. 2", "d. While loop pt. 2\d. While loop pt. 2.csproj", "{A6BDADB8-4353-4794-A983-E016B995813E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 7 - While loop", "_Coding Exercise 7 - While loop\_Coding Exercise 7 - While loop.csproj", "{4B1B17D9-11FD-47C4-8FF0-1311DF96FB40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 7 - While loop", "_Coding Exercise 7 - While loop\_Coding Exercise 7 - While loop.csproj", "{4B1B17D9-11FD-47C4-8FF0-1311DF96FB40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e. Do-while loop", "e. Do-while loop\e. Do-while loop.csproj", "{3B4C3917-8D70-4FF9-9AD6-15994C74525D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "e. Do-while loop", "e. Do-while loop\e. Do-while loop.csproj", "{3B4C3917-8D70-4FF9-9AD6-15994C74525D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 8 - Do While Loop", "_Coding Exercise 8 - Do While Loop\_Coding Exercise 8 - Do While Loop.csproj", "{6297DE51-9D4F-4522-8E1E-42FC00785800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 8 - Do While Loop", "_Coding Exercise 8 - Do While Loop\_Coding Exercise 8 - Do While Loop.csproj", "{6297DE51-9D4F-4522-8E1E-42FC00785800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f. For loop", "f. For loop\f. For loop.csproj", "{FC8D618B-D4E8-4F83-950A-5DCF29FDF971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "f. For loop", "f. For loop\f. For loop.csproj", "{FC8D618B-D4E8-4F83-950A-5DCF29FDF971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 9 - for loop", "_Coding Exercise 9 - for loop\_Coding Exercise 9 - for loop.csproj", "{734A2D1E-4733-4DCE-9A68-ECCBB0756980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 9 - for loop", "_Coding Exercise 9 - for loop\_Coding Exercise 9 - for loop.csproj", "{734A2D1E-4733-4DCE-9A68-ECCBB0756980}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g. Break Keyword", "g. Break Keyword\g. Break Keyword.csproj", "{01DA9E99-C826-4180-BA9E-ED92F51224E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "g. Break Keyword", "g. Break Keyword\g. Break Keyword.csproj", "{01DA9E99-C826-4180-BA9E-ED92F51224E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h. Continue Keyword", "h. Continue Keyword\h. Continue Keyword.csproj", "{1FD8A847-88DA-405A-8F6E-6CD93F2B00F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "h. Continue Keyword", "h. Continue Keyword\h. Continue Keyword.csproj", "{1FD8A847-88DA-405A-8F6E-6CD93F2B00F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i. Nested Loops", "i. Nested Loops\i. Nested Loops.csproj", "{6C85D112-050D-426E-96E8-736773FD557F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i. Nested Loops", "i. Nested Loops\i. Nested Loops.csproj", "{6C85D112-050D-426E-96E8-736773FD557F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "j. Arrays", "j. Arrays\j. Arrays.csproj", "{07B07D7D-CA82-4FFE-993A-36516987F73E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "j. Arrays", "j. Arrays\j. Arrays.csproj", "{07B07D7D-CA82-4FFE-993A-36516987F73E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 10 - Arrays1", "_Coding Exercise 10 - Arrays1\_Coding Exercise 10 - Arrays1.csproj", "{11E3B7CC-98AD-4B88-8D4A-A357E2EC0B2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 10 - Arrays1", "_Coding Exercise 10 - Arrays1\_Coding Exercise 10 - Arrays1.csproj", "{11E3B7CC-98AD-4B88-8D4A-A357E2EC0B2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 11 - Arrays2", "_Coding Exercise 11 - Arrays2\_Coding Exercise 11 - Arrays2.csproj", "{90C1B9EB-BD91-48F0-BB51-6FB62ADF621C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 11 - Arrays2", "_Coding Exercise 11 - Arrays2\_Coding Exercise 11 - Arrays2.csproj", "{90C1B9EB-BD91-48F0-BB51-6FB62ADF621C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k. Multidimensional Arrays", "k. Multidimensional Arrays\k. Multidimensional Arrays.csproj", "{1371D87A-4FAF-48F7-9AA3-54E026D20B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "k. Multidimensional Arrays", "k. Multidimensional Arrays\k. Multidimensional Arrays.csproj", "{1371D87A-4FAF-48F7-9AA3-54E026D20B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 12 - Multidimensional Arrays", "_Coding Exercise 12 - Multidimensional Arrays\_Coding Exercise 12 - Multidimensional Arrays.csproj", "{E5C9C3E2-3E4D-4AF5-ADB7-C0A72799D5C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 12 - Multidimensional Arrays", "_Coding Exercise 12 - Multidimensional Arrays\_Coding Exercise 12 - Multidimensional Arrays.csproj", "{E5C9C3E2-3E4D-4AF5-ADB7-C0A72799D5C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l. For each loop", "l. For each loop\l. For each loop.csproj", "{25184F43-A6DD-4B97-9CA2-438E277166A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "l. For each loop", "l. For each loop\l. For each loop.csproj", "{25184F43-A6DD-4B97-9CA2-438E277166A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 13 - For-each loop", "_Coding Exercise 13 - For-each loop\_Coding Exercise 13 - For-each loop.csproj", "{5484452C-1F9A-44D1-981E-F4A7F6753CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m. Lists", "m- Lists\m. Lists.csproj", "{F0106AF3-6DCD-49A2-9279-B73C37E0652B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 14 - Lists", "_Coding Exercise 14 - Lists\_Coding Exercise 14 - Lists.csproj", "{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -244,6 +253,21 @@ Global
 		{25184F43-A6DD-4B97-9CA2-438E277166A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25184F43-A6DD-4B97-9CA2-438E277166A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25184F43-A6DD-4B97-9CA2-438E277166A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5484452C-1F9A-44D1-981E-F4A7F6753CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5484452C-1F9A-44D1-981E-F4A7F6753CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5484452C-1F9A-44D1-981E-F4A7F6753CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5484452C-1F9A-44D1-981E-F4A7F6753CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0106AF3-6DCD-49A2-9279-B73C37E0652B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0106AF3-6DCD-49A2-9279-B73C37E0652B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0106AF3-6DCD-49A2-9279-B73C37E0652B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0106AF3-6DCD-49A2-9279-B73C37E0652B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{539D772D-8373-43CF-9898-B5E9D78AEEEB} = {740C2955-82BE-4890-A47E-B91CE7310AE5}
@@ -265,25 +289,31 @@ Global
 		{07873E2F-D339-4236-98E0-64251D27E445} = {740C2955-82BE-4890-A47E-B91CE7310AE5}
 		{5C442549-4406-442A-A2CD-701BC40BDAA9} = {740C2955-82BE-4890-A47E-B91CE7310AE5}
 		{596ABB4A-E78F-46F3-82D2-5D39A2F57280} = {740C2955-82BE-4890-A47E-B91CE7310AE5}
-		{D2222BE5-C86A-443B-B3DA-769FF5D56203} = {740C2955-82BE-4890-A47E-B91CE7310AE5}
 		{D20FEF96-A987-4DD3-B737-6A9B92BC181B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{59E4FF92-1E58-41AF-B65B-00659D9AC16B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{D2222BE5-C86A-443B-B3DA-769FF5D56203} = {740C2955-82BE-4890-A47E-B91CE7310AE5}
 		{FE04ADD4-A394-4A40-82EB-2F8E20EFCE0C} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{CF3DF1F0-A2B8-4132-82D3-15FDC13BB8E8} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{A6BDADB8-4353-4794-A983-E016B995813E} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{4B1B17D9-11FD-47C4-8FF0-1311DF96FB40} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{3B4C3917-8D70-4FF9-9AD6-15994C74525D} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{6297DE51-9D4F-4522-8E1E-42FC00785800} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{FC8D618B-D4E8-4F83-950A-5DCF29FDF971} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{734A2D1E-4733-4DCE-9A68-ECCBB0756980} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{01DA9E99-C826-4180-BA9E-ED92F51224E4} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{1FD8A847-88DA-405A-8F6E-6CD93F2B00F3} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{6C85D112-050D-426E-96E8-736773FD557F} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{07B07D7D-CA82-4FFE-993A-36516987F73E} = {C630D730-3D74-4988-A248-D8FC668F9E24}
-		{25184F43-A6DD-4B97-9CA2-438E277166A9} = {C630D730-3D74-4988-A248-D8FC668F9E24}
-		{1371D87A-4FAF-48F7-9AA3-54E026D20B1B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
-		{59E4FF92-1E58-41AF-B65B-00659D9AC16B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
-		{4B1B17D9-11FD-47C4-8FF0-1311DF96FB40} = {C630D730-3D74-4988-A248-D8FC668F9E24}
-		{6297DE51-9D4F-4522-8E1E-42FC00785800} = {C630D730-3D74-4988-A248-D8FC668F9E24}
-		{734A2D1E-4733-4DCE-9A68-ECCBB0756980} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{11E3B7CC-98AD-4B88-8D4A-A357E2EC0B2D} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{90C1B9EB-BD91-48F0-BB51-6FB62ADF621C} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{1371D87A-4FAF-48F7-9AA3-54E026D20B1B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{E5C9C3E2-3E4D-4AF5-ADB7-C0A72799D5C2} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{25184F43-A6DD-4B97-9CA2-438E277166A9} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{5484452C-1F9A-44D1-981E-F4A7F6753CEB} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{F0106AF3-6DCD-49A2-9279-B73C37E0652B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CEF7E1-552C-471D-BB27-A8158A7DC27A}
 	EndGlobalSection
 EndGlobal

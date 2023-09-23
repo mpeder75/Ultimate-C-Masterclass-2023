@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_Coding Exercise 13 - For-each loop/1.0.0": {
+        "runtime": {
+          "_Coding Exercise 13 - For-each loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_Coding Exercise 13 - For-each loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-using System.Resources;
-
+﻿
 Console.WriteLine("Hello");
 Console.WriteLine("What do you want to do?");
 Console.WriteLine("[S]ee all TODOs");
@@ -21,9 +19,10 @@ if (userChoice == "ABC" ) {
     Console.WriteLine("User did not type ABC");  
 }
 
-// HVIS længden af input er mindre eller lig med 3, printes 'Short answer'
-// ELLERS HVIS længden er mindre end 10 printes 'Medium answer'
-// ELLERS printes 'Long answer'
+/* HVIS længden af input er mindre eller lig med 3, printes 'Short answer'
+   ELLERS HVIS længden er mindre end 10 printes 'Medium answer'
+   ELLERS printes 'Long answer' */
+
 if (userChoice.Length <= 3) {
     Console.WriteLine("Short answer");
 } else if (userChoice.Length < 10) {
@@ -33,4 +32,3 @@ if (userChoice.Length <= 3) {
 }
 
 
-var consoleKeyInfo = Console.ReadKey();

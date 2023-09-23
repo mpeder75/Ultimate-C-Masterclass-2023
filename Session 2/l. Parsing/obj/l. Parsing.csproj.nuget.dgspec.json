@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\l. Parsing\\l. Parsing.csproj": {}
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\l. Parsing\\l. Parsing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\l. Parsing\\l. Parsing.csproj": {
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\l. Parsing\\l. Parsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\l. Parsing\\l. Parsing.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\l. Parsing\\l. Parsing.csproj",
         "projectName": "l. Parsing",
-        "projectPath": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\l. Parsing\\l. Parsing.csproj",
+        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\l. Parsing\\l. Parsing.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\l. Parsing\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\l. Parsing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

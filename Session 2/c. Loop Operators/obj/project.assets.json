@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\c. Loop Operators\\c. Loop Operators.csproj",
+      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\c. Loop Operators\\c. Loop Operators.csproj",
       "projectName": "c. Loop Operators",
-      "projectPath": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\c. Loop Operators\\c. Loop Operators.csproj",
+      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\c. Loop Operators\\c. Loop Operators.csproj",
       "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\c. Loop Operators\\obj\\",
+      "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\c. Loop Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

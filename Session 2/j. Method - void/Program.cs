@@ -22,7 +22,7 @@ if (userChoice == "S") {
     PrintSelectedOption("See all TODOS"); 
 } else if (userChoice == "A") {
     PrintSelectedOption("Add a TODO");
-} else if (userChoice =="R") {
+} else if (userChoice == "R") {
     Console.WriteLine("Remove TODO");
 } else if (userChoice == "E") {
     Console.WriteLine("Exit");

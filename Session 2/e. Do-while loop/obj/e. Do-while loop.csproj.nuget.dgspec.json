@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj": {}
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj": {
+    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj",
         "projectName": "e. Do-while loop",
-        "projectPath": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj",
+        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Do-while loop\\e. Do-while loop.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\Desktop\\Udemy Ultimate C# Masterclass 2023\\Session 2\\e. Do-while loop\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Do-while loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

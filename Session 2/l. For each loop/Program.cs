@@ -1,21 +1,38 @@
-﻿
+﻿/*
+ For-each loop er designet til at loope igennem arrays, Lister og collections
+*/
+
 
 var words = new[] {"one", "two", "three", "four" };
-var numbers = new[] {"one", "two", "three", "four" };
-
-// For loop der looper gennem array
-for (var i = 0; i < words.Length; i++) {
-    Console.WriteLine(words[i]);
-}
+string[] cars = { "BMW", "Corvette", "Mustang" };
 
 
-/* For Each loope har IKKE adgang til [i] */
+// ---------------------------- For Loop ----------------------------- //
 
-// Foreach looper gennem array
-foreach (var number in numbers) 
+for (var i = 0; i < words.Length; i++)
 {
-    Console.WriteLine("For each printing " + number);
+    Console.WriteLine($"Printing from for loop {words[i]}");
 }
 
-Console.ReadKey();
+
+// ---------------------------- For Each Loop ----------------------------- //
+
+// 'String' er elementernes datatype 
+// 'car' er navnet på det element man arbejder på
+// 'in' er keyword for man vi larbejde på noget
+// 'cars' er det array men vil iterere igennem
+
+foreach(string car in cars)
+{
+    Console.WriteLine(car);
+}
+
+/* 
+
+ * For each loops kan KUN itere forlæns IKKE BAGLÆNS -> Brug et forloop eller while loop istedet for 
+ * For-each loop kan IKKE springe en iteration over -> For loop kan i sin declaration (int i = 0; i > 10; i += 2);
+
+*/
+
+
 

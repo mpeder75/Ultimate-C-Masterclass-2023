@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "o. TryParse method/1.0.0": {
+        "runtime": {
+          "o. TryParse method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "o. TryParse method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

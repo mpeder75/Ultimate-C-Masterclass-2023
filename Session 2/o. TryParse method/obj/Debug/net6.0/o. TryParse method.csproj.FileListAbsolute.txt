@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\bin\Debug\net6.0\o. TryParse method.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\bin\Debug\net6.0\o. TryParse method.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\bin\Debug\net6.0\o. TryParse method.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\bin\Debug\net6.0\o. TryParse method.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\bin\Debug\net6.0\o. TryParse method.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\refint\o. TryParse method.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\o. TryParse method.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\o. TryParse method\obj\Debug\net6.0\ref\o. TryParse method.dll

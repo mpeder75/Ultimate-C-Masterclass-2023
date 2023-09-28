@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\bin\Debug\net6.0\n. Out keyword.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\bin\Debug\net6.0\n. Out keyword.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\bin\Debug\net6.0\n. Out keyword.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\bin\Debug\net6.0\n. Out keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\bin\Debug\net6.0\n. Out keyword.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\refint\n. Out keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\n. Out keyword.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\n. Out keyword\obj\Debug\net6.0\ref\n. Out keyword.dll

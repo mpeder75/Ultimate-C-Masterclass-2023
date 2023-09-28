@@ -85,11 +85,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 12 - Multi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "l. For each loop", "l. For each loop\l. For each loop.csproj", "{25184F43-A6DD-4B97-9CA2-438E277166A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 13 - For-each loop", "_Coding Exercise 13 - For-each loop\_Coding Exercise 13 - For-each loop.csproj", "{5484452C-1F9A-44D1-981E-F4A7F6753CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 13 - For-each loop", "_Coding Exercise 13 - For-each loop\_Coding Exercise 13 - For-each loop.csproj", "{5484452C-1F9A-44D1-981E-F4A7F6753CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m. Lists", "m- Lists\m. Lists.csproj", "{F0106AF3-6DCD-49A2-9279-B73C37E0652B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "m. Lists", "m- Lists\m. Lists.csproj", "{F0106AF3-6DCD-49A2-9279-B73C37E0652B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Coding Exercise 14 - Lists", "_Coding Exercise 14 - Lists\_Coding Exercise 14 - Lists.csproj", "{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Coding Exercise 14 - Lists", "_Coding Exercise 14 - Lists\_Coding Exercise 14 - Lists.csproj", "{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n. Out keyword", "n. Out keyword\n. Out keyword.csproj", "{C4422EB8-761A-41D3-8F10-26D908F3E507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o. TryParse method", "o. TryParse method\o. TryParse method.csproj", "{4B3223B6-E70D-4205-B620-3116CDAF3AC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -265,6 +269,14 @@ Global
 		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4422EB8-761A-41D3-8F10-26D908F3E507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4422EB8-761A-41D3-8F10-26D908F3E507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4422EB8-761A-41D3-8F10-26D908F3E507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4422EB8-761A-41D3-8F10-26D908F3E507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3223B6-E70D-4205-B620-3116CDAF3AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3223B6-E70D-4205-B620-3116CDAF3AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3223B6-E70D-4205-B620-3116CDAF3AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3223B6-E70D-4205-B620-3116CDAF3AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -312,6 +324,8 @@ Global
 		{5484452C-1F9A-44D1-981E-F4A7F6753CEB} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{F0106AF3-6DCD-49A2-9279-B73C37E0652B} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 		{1BF7AD4F-7636-43A2-8DD9-ACBFD2C077C1} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{C4422EB8-761A-41D3-8F10-26D908F3E507} = {C630D730-3D74-4988-A248-D8FC668F9E24}
+		{4B3223B6-E70D-4205-B620-3116CDAF3AC9} = {C630D730-3D74-4988-A248-D8FC668F9E24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77CEF7E1-552C-471D-BB27-A8158A7DC27A}

@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\d. Var keywo
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\d. Var keyword\obj\Debug\net6.0\ref\d. Var keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\bin\Debug\net6.0\d. Var keyword.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\bin\Debug\net6.0\d. Var keyword.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\bin\Debug\net6.0\d. Var keyword.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\bin\Debug\net6.0\d. Var keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\bin\Debug\net6.0\d. Var keyword.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\refint\d. Var keyword.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\d. Var keyword.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\d. Var keyword\obj\Debug\net6.0\ref\d. Var keyword.dll

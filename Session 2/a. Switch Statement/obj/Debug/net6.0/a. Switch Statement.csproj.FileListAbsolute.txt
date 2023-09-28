@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Switch St
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\a. Switch Statement\obj\Debug\net6.0\ref\a. Switch Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\bin\Debug\net6.0\a. Switch Statement.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\bin\Debug\net6.0\a. Switch Statement.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\bin\Debug\net6.0\a. Switch Statement.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\bin\Debug\net6.0\a. Switch Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\bin\Debug\net6.0\a. Switch Statement.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\refint\a. Switch Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\a. Switch Statement.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\a. Switch Statement\obj\Debug\net6.0\ref\a. Switch Statement.dll

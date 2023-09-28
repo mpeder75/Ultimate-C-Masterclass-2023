@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. If Else S
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\h. If Else Statement\obj\Debug\net6.0\ref\h. If Else Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\bin\Debug\net6.0\h. If Else Statement.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\bin\Debug\net6.0\h. If Else Statement.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\bin\Debug\net6.0\h. If Else Statement.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\bin\Debug\net6.0\h. If Else Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\bin\Debug\net6.0\h. If Else Statement.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\refint\h. If Else Statement.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\h. If Else Statement.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\h. If Else Statement\obj\Debug\net6.0\ref\h. If Else Statement.dll

@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exer
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\ref\_Coding Exercise 2 - Boolean Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\bin\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\bin\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\bin\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\bin\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\bin\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\refint\_Coding Exercise 2 - Boolean Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\_Coding Exercise 2 - Boolean Operators.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 2 - Boolean Operators\obj\Debug\net6.0\ref\_Coding Exercise 2 - Boolean Operators.dll

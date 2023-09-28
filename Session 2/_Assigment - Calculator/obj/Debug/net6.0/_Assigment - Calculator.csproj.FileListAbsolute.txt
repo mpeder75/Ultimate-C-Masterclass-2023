@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Assigment -
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\ref\_Assigment - Calculator.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\bin\Debug\net6.0\_Assigment - Calculator.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\bin\Debug\net6.0\_Assigment - Calculator.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\bin\Debug\net6.0\_Assigment - Calculator.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\bin\Debug\net6.0\_Assigment - Calculator.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\bin\Debug\net6.0\_Assigment - Calculator.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\refint\_Assigment - Calculator.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\_Assigment - Calculator.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Assigment - Calculator\obj\Debug\net6.0\ref\_Assigment - Calculator.dll

@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. String In
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\m. String Interpolation\obj\Debug\net6.0\ref\m. String Interpolation.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\bin\Debug\net6.0\m. String Interpolation.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\bin\Debug\net6.0\m. String Interpolation.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\bin\Debug\net6.0\m. String Interpolation.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\bin\Debug\net6.0\m. String Interpolation.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\bin\Debug\net6.0\m. String Interpolation.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\refint\m. String Interpolation.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\m. String Interpolation.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\m. String Interpolation\obj\Debug\net6.0\ref\m. String Interpolation.dll

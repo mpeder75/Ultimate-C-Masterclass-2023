@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exer
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\ref\_Coding Exercise 4 - Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\bin\Debug\net6.0\_Coding Exercise 4 - Methods.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\bin\Debug\net6.0\_Coding Exercise 4 - Methods.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\bin\Debug\net6.0\_Coding Exercise 4 - Methods.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\bin\Debug\net6.0\_Coding Exercise 4 - Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\bin\Debug\net6.0\_Coding Exercise 4 - Methods.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\refint\_Coding Exercise 4 - Methods.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\_Coding Exercise 4 - Methods.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 4 - Methods\obj\Debug\net6.0\ref\_Coding Exercise 4 - Methods.dll

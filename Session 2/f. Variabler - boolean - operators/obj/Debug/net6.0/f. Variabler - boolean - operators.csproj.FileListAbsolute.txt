@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\f. Variabler
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\ref\f. Variabler - boolean - operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\bin\Debug\net6.0\f. Variabler - boolean - operators.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\bin\Debug\net6.0\f. Variabler - boolean - operators.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\bin\Debug\net6.0\f. Variabler - boolean - operators.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\bin\Debug\net6.0\f. Variabler - boolean - operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\bin\Debug\net6.0\f. Variabler - boolean - operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\refint\f. Variabler - boolean - operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\f. Variabler - boolean - operators.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\f. Variabler - boolean - operators\obj\Debug\net6.0\ref\f. Variabler - boolean - operators.dll

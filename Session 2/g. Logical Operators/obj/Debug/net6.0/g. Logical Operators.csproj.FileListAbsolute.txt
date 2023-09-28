@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Logical O
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\g. Logical Operators\obj\Debug\net6.0\ref\g. Logical Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\bin\Debug\net6.0\g. Logical Operators.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\bin\Debug\net6.0\g. Logical Operators.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\bin\Debug\net6.0\g. Logical Operators.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\bin\Debug\net6.0\g. Logical Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\bin\Debug\net6.0\g. Logical Operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\refint\g. Logical Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\g. Logical Operators.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\g. Logical Operators\obj\Debug\net6.0\ref\g. Logical Operators.dll

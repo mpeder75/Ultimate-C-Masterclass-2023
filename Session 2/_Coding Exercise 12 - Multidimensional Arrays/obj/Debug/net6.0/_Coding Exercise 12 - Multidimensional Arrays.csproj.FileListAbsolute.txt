@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exer
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\ref\_Coding Exercise 12 - Multidimensional Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\bin\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\bin\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\bin\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\bin\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\bin\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\refint\_Coding Exercise 12 - Multidimensional Arrays.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\_Coding Exercise 12 - Multidimensional Arrays.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 12 - Multidimensional Arrays\obj\Debug\net6.0\ref\_Coding Exercise 12 - Multidimensional Arrays.dll

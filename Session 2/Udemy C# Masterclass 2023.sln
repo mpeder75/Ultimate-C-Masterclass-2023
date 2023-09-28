@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n. Out keyword", "n. Out ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o. TryParse method", "o. TryParse method\o. TryParse method.csproj", "{4B3223B6-E70D-4205-B620-3116CDAF3AC9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 4", "Section 4", "{B8E5A5D8-C313-4332-969D-72E33132F574}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

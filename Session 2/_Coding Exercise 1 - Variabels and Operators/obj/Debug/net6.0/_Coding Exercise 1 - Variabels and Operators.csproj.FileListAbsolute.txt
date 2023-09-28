@@ -13,3 +13,17 @@ C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exer
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.pdb
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.genruntimeconfig.cache
 C:\Users\mpede\Desktop\Udemy Ultimate C# Masterclass 2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\ref\_Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\bin\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\refint\_Coding Exercise 1 - Variabels and Operators.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\_Coding Exercise 1 - Variabels and Operators.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\_Coding Exercise 1 - Variabels and Operators\obj\Debug\net6.0\ref\_Coding Exercise 1 - Variabels and Operators.dll

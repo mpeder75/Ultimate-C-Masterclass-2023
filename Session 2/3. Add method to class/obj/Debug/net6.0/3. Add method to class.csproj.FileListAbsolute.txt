@@ -1,0 +1,14 @@
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\bin\Debug\net6.0\3. Add method to class.exe
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\bin\Debug\net6.0\3. Add method to class.deps.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\bin\Debug\net6.0\3. Add method to class.runtimeconfig.json
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\bin\Debug\net6.0\3. Add method to class.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\bin\Debug\net6.0\3. Add method to class.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.AssemblyInfoInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.AssemblyInfo.cs
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.csproj.CoreCompileInputs.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\refint\3. Add method to class.dll
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.pdb
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\3. Add method to class.genruntimeconfig.cache
+C:\Users\mpede\Source\Repos\mpeder75\Ultimate-C-Masterclass-2023\Session 2\3. Add method to class\obj\Debug\net6.0\ref\3. Add method to class.dll

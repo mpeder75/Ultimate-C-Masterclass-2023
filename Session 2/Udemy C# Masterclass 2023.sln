@@ -117,7 +117,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateTriangle", "Calcul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Method overloading", "5. Method overloading\5. Method overloading.csproj", "{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Overload constructors", "6. Overload constructors\6. Overload constructors.csproj", "{F737797F-8069-495A-9FCF-83DBAFF31B22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Overload constructors", "6. Overload constructors\6. Overload constructors.csproj", "{F737797F-8069-495A-9FCF-83DBAFF31B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Expression-bodied methods", "7. Expression-bodied methods\7. Expression-bodied methods.csproj", "{0A1CF43F-0BB8-4DD8-8B51-4F6F1A00A383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. this keyword", "8. this keyword\8. this keyword.csproj", "{B5410385-0181-4667-A14B-E9C9FDDEED72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Optional parameters", "9. Optional parameters\9. Optional parameters.csproj", "{2EF6FAEB-4F14-4C49-B0CD-89B5739D117E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Limitations of fields - A need for properties", "12. Limitations of fields - A need for properties\12. Limitations of fields - A need for properties.csproj", "{5C262006-60E7-42CE-95AB-FD6535A31266}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +341,22 @@ Global
 		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1CF43F-0BB8-4DD8-8B51-4F6F1A00A383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1CF43F-0BB8-4DD8-8B51-4F6F1A00A383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1CF43F-0BB8-4DD8-8B51-4F6F1A00A383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1CF43F-0BB8-4DD8-8B51-4F6F1A00A383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5410385-0181-4667-A14B-E9C9FDDEED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5410385-0181-4667-A14B-E9C9FDDEED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5410385-0181-4667-A14B-E9C9FDDEED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5410385-0181-4667-A14B-E9C9FDDEED72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF6FAEB-4F14-4C49-B0CD-89B5739D117E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF6FAEB-4F14-4C49-B0CD-89B5739D117E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF6FAEB-4F14-4C49-B0CD-89B5739D117E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF6FAEB-4F14-4C49-B0CD-89B5739D117E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C262006-60E7-42CE-95AB-FD6535A31266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C262006-60E7-42CE-95AB-FD6535A31266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C262006-60E7-42CE-95AB-FD6535A31266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C262006-60E7-42CE-95AB-FD6535A31266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -393,6 +417,10 @@ Global
 		{DAA92577-EC7F-4A49-89AB-A4763FB86464} = {12B27E56-AAB9-4D5D-861C-8E7B88719DB6}
 		{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748} = {B8E5A5D8-C313-4332-969D-72E33132F574}
 		{F737797F-8069-495A-9FCF-83DBAFF31B22} = {B8E5A5D8-C313-4332-969D-72E33132F574}
+		{0A1CF43F-0BB8-4DD8-8B51-4F6F1A00A383} = {B8E5A5D8-C313-4332-969D-72E33132F574}
+		{B5410385-0181-4667-A14B-E9C9FDDEED72} = {B8E5A5D8-C313-4332-969D-72E33132F574}
+		{2EF6FAEB-4F14-4C49-B0CD-89B5739D117E} = {B8E5A5D8-C313-4332-969D-72E33132F574}
+		{5C262006-60E7-42CE-95AB-FD6535A31266} = {B8E5A5D8-C313-4332-969D-72E33132F574}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77CEF7E1-552C-471D-BB27-A8158A7DC27A}

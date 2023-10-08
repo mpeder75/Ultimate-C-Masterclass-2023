@@ -97,25 +97,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section 4", "Section 4", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "m. Lists", "m. Lists\m. Lists.csproj", "{C1684629-DD98-415F-821D-6BB82936A83D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. DateTime", "1. DateTime\1. DateTime.csproj", "{A243740A-7468-475F-A798-FBA362062545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. DateTime", "1. DateTime\1. DateTime.csproj", "{A243740A-7468-475F-A798-FBA362062545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Create a Rectangle class", "2. Create a class\2. Create a Rectangle class.csproj", "{C1CE39BC-FCDE-4280-9E0A-44AE9589DA8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Create a class", "2. Create a class\2. Create a class.csproj", "{C1CE39BC-FCDE-4280-9E0A-44AE9589DA8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Add method to class", "3. Add method to class\3. Add method to class.csproj", "{22BF6DF5-4BC0-4653-B16E-95C795C77DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Add method to class", "3. Add method to class\3. Add method to class.csproj", "{22BF6DF5-4BC0-4653-B16E-95C795C77DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Encapsulation", "4. Encapsulation\4. Encapsulation.csproj", "{2EA57934-A39B-4F59-A1BC-DF333AE35F33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Encapsulation", "4. Encapsulation\4. Encapsulation.csproj", "{2EA57934-A39B-4F59-A1BC-DF333AE35F33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HotelBooking", "HotelBooking", "{58B996AE-19A2-4F73-B621-A6ED254B3260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBooking", "HotelBooking\HotelBooking.csproj", "{2F865078-E1C7-42F8-AB02-34E6C88255CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelBooking", "HotelBooking\HotelBooking.csproj", "{2F865078-E1C7-42F8-AB02-34E6C88255CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculateTriangle", "CalculateTriangle", "{12B27E56-AAB9-4D5D-861C-8E7B88719DB6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{49ACD1F6-02ED-418F-8844-15FF874312E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTriangle", "CalculateTriangle\CalculateTriangle.csproj", "{DAA92577-EC7F-4A49-89AB-A4763FB86464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateTriangle", "CalculateTriangle\CalculateTriangle.csproj", "{DAA92577-EC7F-4A49-89AB-A4763FB86464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Method overloading", "5. Method overloading\5. Method overloading.csproj", "{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Method overloading", "5. Method overloading\5. Method overloading.csproj", "{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Overload constructors", "6. Overload constructors\6. Overload constructors.csproj", "{F737797F-8069-495A-9FCF-83DBAFF31B22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -327,6 +329,10 @@ Global
 		{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F737797F-8069-495A-9FCF-83DBAFF31B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -386,6 +392,7 @@ Global
 		{49ACD1F6-02ED-418F-8844-15FF874312E8} = {B8E5A5D8-C313-4332-969D-72E33132F574}
 		{DAA92577-EC7F-4A49-89AB-A4763FB86464} = {12B27E56-AAB9-4D5D-861C-8E7B88719DB6}
 		{34D23AE2-B3E7-4518-B4AA-4DB3B5C8D748} = {B8E5A5D8-C313-4332-969D-72E33132F574}
+		{F737797F-8069-495A-9FCF-83DBAFF31B22} = {B8E5A5D8-C313-4332-969D-72E33132F574}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77CEF7E1-552C-471D-BB27-A8158A7DC27A}

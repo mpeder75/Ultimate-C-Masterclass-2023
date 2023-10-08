@@ -1,15 +1,21 @@
-﻿
+﻿/*todo
+Method overloading = er når man har flere methods med samme navn
+
+Method overloading kræver at hver metod med samme navn, har forskellige parametre
+*/
+
+
 var medicalAppointment = new MedicalAppointment("John Smith", new DateTime(2022, 1, 2)); 
 
 
 class medicalAppointment
 {
-    private string _paitentName;
+    private string _patientName;
     private DateTime _date;
 
-    public medicalAppointment(string paitentName, DateTime date)
+    public medicalAppointment(string patientName, DateTime date)
     {
-        _paitentName = paitentName;
+        _patientName = patientName;
         _date = date;
     }
 
@@ -25,12 +31,14 @@ class medicalAppointment
         _date = new DateTime(_date.Year, month, day);
     }
 
-    /* Denne vil IKKE virke da den første overloaded method har samme parametre...
+    /*!  Method der fjerne er scheldue
+         Denne vil IKKE VIRKE da den har samme parametre som første  overloaded method */
+    /*
     public void Reschedule(int monthsToAdd, int daysToAdd)
     {
         _date = new DateTime(_date.Year, _date.Month + monthsToAdd, _date.Day + daysToAdd);
     }
     */
 
-}
+ }
 

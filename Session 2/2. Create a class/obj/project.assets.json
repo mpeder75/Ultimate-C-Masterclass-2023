@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\2. Create a class\\2. Create a Rectangle class.csproj",
-      "projectName": "2. Create a Rectangle class",
-      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\2. Create a class\\2. Create a Rectangle class.csproj",
+      "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\2. Create a class\\2. Create a class.csproj",
+      "projectName": "2. Create a class",
+      "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\2. Create a class\\2. Create a class.csproj",
       "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\2. Create a class\\obj\\",
       "projectStyle": "PackageReference",

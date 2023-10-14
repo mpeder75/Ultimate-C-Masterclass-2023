@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj",
         "projectName": "_Coding Exercise 1 - Variabels and Operators",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\_Coding Exercise 1 - Variabels and Operators.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 1 - Variabels and Operators\\obj\\",
         "projectStyle": "PackageReference",

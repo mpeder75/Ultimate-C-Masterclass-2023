@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj",
         "projectName": "e. Debugging",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\e. Debugging.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\e. Debugging\\obj\\",
         "projectStyle": "PackageReference",

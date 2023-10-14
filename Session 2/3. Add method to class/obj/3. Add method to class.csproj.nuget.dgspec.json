@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj",
         "projectName": "3. Add method to class",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\3. Add method to class.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\3. Add method to class\\obj\\",
         "projectStyle": "PackageReference",

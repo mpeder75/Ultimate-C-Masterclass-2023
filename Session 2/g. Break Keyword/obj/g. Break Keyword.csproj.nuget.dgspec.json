@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj",
         "projectName": "g. Break Keyword",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\g. Break Keyword.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\g. Break Keyword\\obj\\",
         "projectStyle": "PackageReference",

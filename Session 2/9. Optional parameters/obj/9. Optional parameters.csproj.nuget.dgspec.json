@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj",
         "projectName": "9. Optional parameters",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\9. Optional parameters.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\obj\\",
+        "outputPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\9. Optional parameters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mpede\\AppData\\Roaming\\NuGet\\NuGet.Config",

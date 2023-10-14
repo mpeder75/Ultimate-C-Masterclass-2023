@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj",
         "projectName": "_Coding Exercise 13 - For-each loop",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\_Coding Exercise 13 - For-each loop.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 13 - For-each loop\\obj\\",
         "projectStyle": "PackageReference",

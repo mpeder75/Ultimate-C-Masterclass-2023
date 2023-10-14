@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj",
         "projectName": "_Coding Exercise 8 - Do While Loop",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\_Coding Exercise 8 - Do While Loop.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 8 - Do While Loop\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj": {}
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj": {
+    "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj",
+        "projectUniqueName": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj",
         "projectName": "_Coding Exercise 14 - Lists",
-        "projectPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj",
+        "projectPath": "C:\\Users\\mpede\\source\\repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\_Coding Exercise 14 - Lists.csproj",
         "packagesPath": "C:\\Users\\mpede\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mpede\\Source\\Repos\\mpeder75\\Ultimate-C-Masterclass-2023\\Session 2\\_Coding Exercise 14 - Lists\\obj\\",
         "projectStyle": "PackageReference",
